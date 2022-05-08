@@ -1,0 +1,30 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+}
+
+#start{
+    font-size:18px;
+}
+
+body{
+    background-image: -webkit-gradient();
+    color: black;
+}
+
+canvas{
+    margin:auto;
+    margin-top:50px;
+    width:200px;
+    padding:10px;
+    background-color:lightblue;
+    box-shadow:20px 20px 50px 10px rgb(2, 0, 0);
+    border:3px rgb(94, 253, 253) solid;
+}
+
+.foot{
+    width: 100%;
+    bottom:0;
+    position:fixed;
+}
